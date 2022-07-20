@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JosephKemper
-- 👀 I’m interested in opportunities to help with python projects
+- 👀 I’m interested in opportunities to help with python and Java projects 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything I can.
 - 📫 How to reach me by email JosephKemper@gmail.com or my website https://www.josephkemper.com/
