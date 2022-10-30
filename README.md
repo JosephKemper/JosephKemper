@@ -1,8 +1,8 @@
 ### Hi there 👋, My name is Joseph Kemper
 #### I am a business management student specializing in software development
-I have recently started a slightly modified 100 days of code journey and will be keeping that going until either I graduate in December of 2023 or I get a programming job, whichever comes last. I will be starting to learn JavaScript the end of October 2022.
+On 8 August 2022 I started a slightly modified 100 days of code journey and will be keeping that going until either I graduate in December of 2023 or I get a programming job, whichever comes last. I will be starting to learn JavaScript the end of October 2022.
 
-Skills: Python
+Languages: Python, JavaScript, HTML
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Python and JavaScript 
