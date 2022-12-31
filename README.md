@@ -2,7 +2,7 @@
 #### I am a business management student specializing in software development
 On 8 August 2022 I started a slightly modified 100 days of code journey and will be keeping that going until either I graduate in December of 2023 or I get a programming job, whichever comes last. I will be starting to learn JavaScript the end of October 2022.
 
-Languages: Python, JavaScript, HTML
+Languages: Python, JavaScript, HTML, and C#
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Python and JavaScript 
