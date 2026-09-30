@@ -8,7 +8,7 @@ I am a software engineering enthusiast focused on quality assurance, game develo
   * **A**pply
   * **T**ranslate
   * **A**mplify
-* 🚀 I am on a **1,000 Days of Code** journey, spending time each day (excluding Sundays) building projects for **TeckFirst**. This journey continues until I reach 1,000 days or secure a professional programming role (defined by earning the equivalent of 50% of my full-time monthly income for a year).
+* 🚀 1,000 Days of Code: Coding daily (excluding Sundays) for TeckFirst until I hit 1,000 days or land a professional programming role—either via a traditional job or by scaling TeckFirst to match 50% of my full-time monthly income for a year.
 
 ---
 
